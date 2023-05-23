@@ -1,0 +1,1114 @@
+﻿<liml8>
+  <analysis type="S30" />
+  <node nid="1" x="0" y="0" z="0" />
+  <node nid="2" x="0.038" y="0.03006" z="0" />
+  <node nid="3" x="0.075" y="0.053" z="0" />
+  <node nid="4" x="0.114" y="0.07045" z="0" />
+  <node nid="5" x="0.152" y="0.07895" z="0" />
+  <node nid="6" x="0.19" y="0.08172" z="0" />
+  <node nid="7" x="0.228" y="0.07895" z="0" />
+  <node nid="8" x="0.266" y="0.07045" z="0" />
+  <node nid="9" x="0.304" y="0.053" z="0" />
+  <node nid="10" x="0.342" y="0.03006" z="0" />
+  <node nid="11" x="0.38" y="0" z="0" />
+  <node nid="12" x="0.038" y="0.06882" z="0" />
+  <node nid="13" x="0.076" y="0.10341" z="0" />
+  <node nid="14" x="0.114" y="0.123" z="0" />
+  <node nid="15" x="0.152" y="0.14" z="0" />
+  <node nid="16" x="0.19" y="0.14" z="0" />
+  <node nid="17" x="0.228" y="0.14" z="0" />
+  <node nid="18" x="0.266" y="0.12418" z="0" />
+  <node nid="19" x="0.304" y="0.10341" z="0" />
+  <node nid="20" x="0.342" y="0.06882" z="0" />
+  <node nid="21" x="0" y="0" z="-0.094" />
+  <node nid="22" x="0.038" y="0.03006" z="-0.094" />
+  <node nid="23" x="0.075" y="0.053" z="-0.094" />
+  <node nid="24" x="0.114" y="0.07045" z="-0.094" />
+  <node nid="25" x="0.152" y="0.07895" z="-0.094" />
+  <node nid="26" x="0.19" y="0.08172" z="-0.094" />
+  <node nid="27" x="0.228" y="0.07895" z="-0.094" />
+  <node nid="28" x="0.266" y="0.07045" z="-0.094" />
+  <node nid="29" x="0.304" y="0.053" z="-0.094" />
+  <node nid="30" x="0.342" y="0.03006" z="-0.094" />
+  <node nid="31" x="0.38" y="0" z="-0.094" />
+  <node nid="32" x="0.038" y="0.06882" z="-0.094" />
+  <node nid="33" x="0.076" y="0.10341" z="-0.094" />
+  <node nid="34" x="0.114" y="0.123" z="-0.094" />
+  <node nid="35" x="0.152" y="0.14" z="-0.094" />
+  <node nid="36" x="0.19" y="0.14" z="-0.094" />
+  <node nid="37" x="0.228" y="0.14" z="-0.094" />
+  <node nid="38" x="0.266" y="0.12418" z="-0.094" />
+  <node nid="39" x="0.304" y="0.10341" z="-0.094" />
+  <node nid="40" x="0.342" y="0.06882" z="-0.094" />
+  <elset name="Default" color="-6710887" material="Material">
+    <elem eid="1" shape="line2" nodes="1 2" truss="true" />
+    <elem eid="2" shape="line2" nodes="2 3" truss="true" />
+    <elem eid="3" shape="line2" nodes="3 4" truss="true" />
+    <elem eid="4" shape="line2" nodes="4 5" truss="true" />
+    <elem eid="5" shape="line2" nodes="5 6" truss="true" />
+    <elem eid="6" shape="line2" nodes="6 7" truss="true" />
+    <elem eid="7" shape="line2" nodes="7 8" truss="true" />
+    <elem eid="8" shape="line2" nodes="8 9" truss="true" />
+    <elem eid="9" shape="line2" nodes="2 3" truss="true" />
+    <elem eid="10" shape="line2" nodes="10 11" truss="true" />
+    <elem eid="11" shape="line2" nodes="12 13" truss="true" />
+    <elem eid="12" shape="line2" nodes="13 14" truss="true" />
+    <elem eid="13" shape="line2" nodes="14 15" truss="true" />
+    <elem eid="14" shape="line2" nodes="15 16" truss="true" />
+    <elem eid="15" shape="line2" nodes="16 17" truss="true" />
+    <elem eid="16" shape="line2" nodes="17 18" truss="true" />
+    <elem eid="17" shape="line2" nodes="18 19" truss="true" />
+    <elem eid="18" shape="line2" nodes="19 20" truss="true" />
+    <elem eid="19" shape="line2" nodes="12 2" truss="true" />
+    <elem eid="20" shape="line2" nodes="13 3" truss="true" />
+    <elem eid="21" shape="line2" nodes="1 2" truss="true" />
+    <elem eid="22" shape="line2" nodes="15 5" truss="true" />
+    <elem eid="23" shape="line2" nodes="16 6" truss="true" />
+    <elem eid="24" shape="line2" nodes="7 8" truss="true" />
+    <elem eid="25" shape="line2" nodes="17 7" truss="true" />
+    <elem eid="26" shape="line2" nodes="18 8" truss="true" />
+    <elem eid="27" shape="line2" nodes="19 9" truss="true" />
+    <elem eid="28" shape="line2" nodes="20 10" truss="true" />
+    <elem eid="29" shape="line2" nodes="12 1" truss="true" />
+    <elem eid="30" shape="line2" nodes="20 11" truss="true" />
+    <elem eid="31" shape="line2" nodes="16 5" truss="true" />
+    <elem eid="32" shape="line2" nodes="16 7" truss="true" />
+    <elem eid="33" shape="line2" nodes="17 18" truss="true" />
+    <elem eid="34" shape="line2" nodes="9 18" truss="true" />
+    <elem eid="35" shape="line2" nodes="8 17" truss="true" />
+    <elem eid="36" shape="line2" nodes="10 9" truss="true" />
+    <elem eid="37" shape="line2" nodes="11 10" truss="true" />
+    <elem eid="38" shape="line2" nodes="1 2" truss="true" />
+    <elem eid="39" shape="line2" nodes="19 10" truss="true" />
+    <elem eid="40" shape="line2" nodes="11 20" truss="true" />
+    <elem eid="41" shape="line2" nodes="6 7" truss="true" />
+    <elem eid="42" shape="line2" nodes="4 5" truss="true" />
+    <elem eid="43" shape="line2" nodes="5 6" truss="true" />
+    <elem eid="44" shape="line2" nodes="11 10" truss="true" />
+    <elem eid="45" shape="line2" nodes="1 12" truss="true" />
+    <elem eid="46" shape="line2" nodes="7 8" truss="true" />
+    <elem eid="47" shape="line2" nodes="13 2" truss="true" />
+    <elem eid="48" shape="line2" nodes="4 15" truss="true" />
+    <elem eid="49" shape="line2" nodes="3 14" truss="true" />
+    <elem eid="50" shape="line2" nodes="14 4" truss="true" />
+    <elem eid="51" shape="line2" nodes="3 2" truss="true" />
+    <elem eid="52" shape="line2" nodes="17 8" truss="true" />
+    <elem eid="53" shape="line2" nodes="8 18" truss="true" />
+    <elem eid="54" shape="line2" nodes="8 9" truss="true" />
+    <elem eid="55" shape="line2" nodes="9 10" truss="true" />
+    <elem eid="56" shape="line2" nodes="15 16" truss="true" />
+    <elem eid="57" shape="line2" nodes="16 17" truss="true" />
+    <elem eid="58" shape="line2" nodes="4 15" truss="true" />
+    <elem eid="59" shape="line2" nodes="14 4" truss="true" />
+    <elem eid="60" shape="line2" nodes="3 4" truss="true" />
+    <elem eid="61" shape="line2" nodes="14 3" truss="true" />
+    <elem eid="62" shape="line2" nodes="21 22" truss="true" />
+    <elem eid="63" shape="line2" nodes="22 23" truss="true" />
+    <elem eid="64" shape="line2" nodes="23 24" truss="true" />
+    <elem eid="65" shape="line2" nodes="24 25" truss="true" />
+    <elem eid="66" shape="line2" nodes="25 26" truss="true" />
+    <elem eid="67" shape="line2" nodes="26 27" truss="true" />
+    <elem eid="68" shape="line2" nodes="27 28" truss="true" />
+    <elem eid="69" shape="line2" nodes="28 29" truss="true" />
+    <elem eid="70" shape="line2" nodes="22 23" truss="true" />
+    <elem eid="71" shape="line2" nodes="30 31" truss="true" />
+    <elem eid="72" shape="line2" nodes="32 33" truss="true" />
+    <elem eid="73" shape="line2" nodes="33 34" truss="true" />
+    <elem eid="74" shape="line2" nodes="34 35" truss="true" />
+    <elem eid="75" shape="line2" nodes="35 36" truss="true" />
+    <elem eid="76" shape="line2" nodes="36 37" truss="true" />
+    <elem eid="77" shape="line2" nodes="37 38" truss="true" />
+    <elem eid="78" shape="line2" nodes="38 39" truss="true" />
+    <elem eid="79" shape="line2" nodes="39 40" truss="true" />
+    <elem eid="80" shape="line2" nodes="32 22" truss="true" />
+    <elem eid="81" shape="line2" nodes="33 23" truss="true" />
+    <elem eid="82" shape="line2" nodes="21 22" truss="true" />
+    <elem eid="83" shape="line2" nodes="35 25" truss="true" />
+    <elem eid="84" shape="line2" nodes="36 26" truss="true" />
+    <elem eid="85" shape="line2" nodes="27 28" truss="true" />
+    <elem eid="86" shape="line2" nodes="37 27" truss="true" />
+    <elem eid="87" shape="line2" nodes="38 28" truss="true" />
+    <elem eid="88" shape="line2" nodes="39 29" truss="true" />
+    <elem eid="89" shape="line2" nodes="40 30" truss="true" />
+    <elem eid="90" shape="line2" nodes="32 21" truss="true" />
+    <elem eid="91" shape="line2" nodes="40 31" truss="true" />
+    <elem eid="92" shape="line2" nodes="36 25" truss="true" />
+    <elem eid="93" shape="line2" nodes="36 27" truss="true" />
+    <elem eid="94" shape="line2" nodes="37 38" truss="true" />
+    <elem eid="95" shape="line2" nodes="29 38" truss="true" />
+    <elem eid="96" shape="line2" nodes="28 37" truss="true" />
+    <elem eid="97" shape="line2" nodes="30 29" truss="true" />
+    <elem eid="98" shape="line2" nodes="31 30" truss="true" />
+    <elem eid="99" shape="line2" nodes="21 22" truss="true" />
+    <elem eid="100" shape="line2" nodes="39 30" truss="true" />
+    <elem eid="101" shape="line2" nodes="31 40" truss="true" />
+    <elem eid="102" shape="line2" nodes="26 27" truss="true" />
+    <elem eid="103" shape="line2" nodes="24 25" truss="true" />
+    <elem eid="104" shape="line2" nodes="25 26" truss="true" />
+    <elem eid="105" shape="line2" nodes="31 30" truss="true" />
+    <elem eid="106" shape="line2" nodes="21 32" truss="true" />
+    <elem eid="107" shape="line2" nodes="27 28" truss="true" />
+    <elem eid="108" shape="line2" nodes="33 22" truss="true" />
+    <elem eid="109" shape="line2" nodes="24 35" truss="true" />
+    <elem eid="110" shape="line2" nodes="23 34" truss="true" />
+    <elem eid="111" shape="line2" nodes="34 24" truss="true" />
+    <elem eid="112" shape="line2" nodes="23 22" truss="true" />
+    <elem eid="113" shape="line2" nodes="37 28" truss="true" />
+    <elem eid="114" shape="line2" nodes="28 38" truss="true" />
+    <elem eid="115" shape="line2" nodes="28 29" truss="true" />
+    <elem eid="116" shape="line2" nodes="29 30" truss="true" />
+    <elem eid="117" shape="line2" nodes="35 36" truss="true" />
+    <elem eid="118" shape="line2" nodes="36 37" truss="true" />
+    <elem eid="119" shape="line2" nodes="24 35" truss="true" />
+    <elem eid="120" shape="line2" nodes="34 24" truss="true" />
+    <elem eid="121" shape="line2" nodes="23 24" truss="true" />
+    <elem eid="122" shape="line2" nodes="34 23" truss="true" />
+    <elem eid="123" shape="line2" nodes="35 15" truss="true" />
+    <elem eid="124" shape="line2" nodes="16 36" truss="true" />
+    <elem eid="125" shape="line2" nodes="37 17" truss="true" />
+    <elem eid="126" shape="line2" nodes="28 8" truss="true" />
+    <elem eid="127" shape="line2" nodes="30 10" truss="true" />
+    <elem eid="128" shape="line2" nodes="9 29" truss="true" />
+    <elem eid="129" shape="line2" nodes="7 27" truss="true" />
+    <elem eid="130" shape="line2" nodes="2 22" truss="true" />
+    <elem eid="131" shape="line2" nodes="23 3" truss="true" />
+    <elem eid="132" shape="line2" nodes="4 24" truss="true" />
+    <elem eid="133" shape="line2" nodes="25 5" truss="true" />
+    <elem eid="134" shape="line2" nodes="6 26" truss="true" />
+  </elset>
+  <displacement selection="Unnamed" axis="1">
+    <value>0</value>
+  </displacement>
+  <displacement selection="Unnamed(2)" axis="2">
+    <value>0</value>
+  </displacement>
+  <displacement selection="Unnamed(3)" axis="3">
+    <value>0</value>
+  </displacement>
+  <displacement selection="Unnamed(4)" axis="1">
+    <value>0</value>
+  </displacement>
+  <displacement selection="Unnamed(5)" axis="2">
+    <value>0</value>
+  </displacement>
+  <displacement selection="Unnamed(6)" axis="3">
+    <value>0</value>
+  </displacement>
+  <force selection="Unnamed(9)">
+    <x>0</x>
+    <y>-10000</y>
+    <z>0</z>
+  </force>
+  <force selection="Unnamed(10)">
+    <x>0</x>
+    <y>-10000</y>
+    <z>0</z>
+  </force>
+  <force selection="Unnamed(11)">
+    <x>0</x>
+    <y>-10000</y>
+    <z>0</z>
+  </force>
+  <mat mid="1" name="Material">
+    <geometric type="RectBar" recta="0.02" rectb="0.003" />
+    <mechanical type="Isotropic" youngsmodulus="3740000000" poissonratio="32380000" />
+  </mat>
+  <nodeselection name="Unnamed">
+    <node nid="1" />
+    <node nid="21" />
+  </nodeselection>
+  <nodeselection name="Unnamed(2)">
+    <node nid="1" />
+    <node nid="21" />
+  </nodeselection>
+  <nodeselection name="Unnamed(3)">
+    <node nid="1" />
+    <node nid="21" />
+  </nodeselection>
+  <nodeselection name="Unnamed(4)">
+    <node nid="11" />
+    <node nid="31" />
+  </nodeselection>
+  <nodeselection name="Unnamed(5)">
+    <node nid="11" />
+    <node nid="31" />
+  </nodeselection>
+  <nodeselection name="Unnamed(6)">
+    <node nid="11" />
+    <node nid="31" />
+  </nodeselection>
+  <nodeselection name="Unnamed(7)">
+    <node nid="6" />
+    <node nid="26" />
+  </nodeselection>
+  <nodeselection name="Unnamed(8)">
+    <node nid="16" />
+    <node nid="36" />
+  </nodeselection>
+  <nodeselection name="Unnamed(9)">
+    <node nid="15" />
+    <node nid="35" />
+  </nodeselection>
+  <nodeselection name="Unnamed(10)">
+    <node nid="16" />
+    <node nid="36" />
+  </nodeselection>
+  <nodeselection name="Unnamed(11)">
+    <node nid="17" />
+    <node nid="37" />
+  </nodeselection>
+  <solution>
+    <analysis type="S30" />
+    <node nid="1" x="0" y="0" z="0" />
+    <node nid="2" x="0.038" y="0.03006" z="0" />
+    <node nid="3" x="0.075" y="0.053" z="0" />
+    <node nid="4" x="0.114" y="0.07045" z="0" />
+    <node nid="5" x="0.152" y="0.07895" z="0" />
+    <node nid="6" x="0.19" y="0.08172" z="0" />
+    <node nid="7" x="0.228" y="0.07895" z="0" />
+    <node nid="8" x="0.266" y="0.07045" z="0" />
+    <node nid="9" x="0.304" y="0.053" z="0" />
+    <node nid="10" x="0.342" y="0.03006" z="0" />
+    <node nid="11" x="0.38" y="0" z="0" />
+    <node nid="12" x="0.038" y="0.06882" z="0" />
+    <node nid="13" x="0.076" y="0.10341" z="0" />
+    <node nid="14" x="0.114" y="0.123" z="0" />
+    <node nid="15" x="0.152" y="0.14" z="0" />
+    <node nid="16" x="0.19" y="0.14" z="0" />
+    <node nid="17" x="0.228" y="0.14" z="0" />
+    <node nid="18" x="0.266" y="0.12418" z="0" />
+    <node nid="19" x="0.304" y="0.10341" z="0" />
+    <node nid="20" x="0.342" y="0.06882" z="0" />
+    <node nid="21" x="0" y="0" z="-0.094" />
+    <node nid="22" x="0.038" y="0.03006" z="-0.094" />
+    <node nid="23" x="0.075" y="0.053" z="-0.094" />
+    <node nid="24" x="0.114" y="0.07045" z="-0.094" />
+    <node nid="25" x="0.152" y="0.07895" z="-0.094" />
+    <node nid="26" x="0.19" y="0.08172" z="-0.094" />
+    <node nid="27" x="0.228" y="0.07895" z="-0.094" />
+    <node nid="28" x="0.266" y="0.07045" z="-0.094" />
+    <node nid="29" x="0.304" y="0.053" z="-0.094" />
+    <node nid="30" x="0.342" y="0.03006" z="-0.094" />
+    <node nid="31" x="0.38" y="0" z="-0.094" />
+    <node nid="32" x="0.038" y="0.06882" z="-0.094" />
+    <node nid="33" x="0.076" y="0.10341" z="-0.094" />
+    <node nid="34" x="0.114" y="0.123" z="-0.094" />
+    <node nid="35" x="0.152" y="0.14" z="-0.094" />
+    <node nid="36" x="0.19" y="0.14" z="-0.094" />
+    <node nid="37" x="0.228" y="0.14" z="-0.094" />
+    <node nid="38" x="0.266" y="0.12418" z="-0.094" />
+    <node nid="39" x="0.304" y="0.10341" z="-0.094" />
+    <node nid="40" x="0.342" y="0.06882" z="-0.094" />
+    <elset name="Default" color="-6710887" material="Material">
+      <elem eid="1" shape="line2" nodes="1 2" truss="true" />
+      <elem eid="2" shape="line2" nodes="2 3" truss="true" />
+      <elem eid="3" shape="line2" nodes="3 4" truss="true" />
+      <elem eid="4" shape="line2" nodes="4 5" truss="true" />
+      <elem eid="5" shape="line2" nodes="5 6" truss="true" />
+      <elem eid="6" shape="line2" nodes="6 7" truss="true" />
+      <elem eid="7" shape="line2" nodes="7 8" truss="true" />
+      <elem eid="8" shape="line2" nodes="8 9" truss="true" />
+      <elem eid="9" shape="line2" nodes="2 3" truss="true" />
+      <elem eid="10" shape="line2" nodes="10 11" truss="true" />
+      <elem eid="11" shape="line2" nodes="12 13" truss="true" />
+      <elem eid="12" shape="line2" nodes="13 14" truss="true" />
+      <elem eid="13" shape="line2" nodes="14 15" truss="true" />
+      <elem eid="14" shape="line2" nodes="15 16" truss="true" />
+      <elem eid="15" shape="line2" nodes="16 17" truss="true" />
+      <elem eid="16" shape="line2" nodes="17 18" truss="true" />
+      <elem eid="17" shape="line2" nodes="18 19" truss="true" />
+      <elem eid="18" shape="line2" nodes="19 20" truss="true" />
+      <elem eid="19" shape="line2" nodes="12 2" truss="true" />
+      <elem eid="20" shape="line2" nodes="13 3" truss="true" />
+      <elem eid="21" shape="line2" nodes="1 2" truss="true" />
+      <elem eid="22" shape="line2" nodes="15 5" truss="true" />
+      <elem eid="23" shape="line2" nodes="16 6" truss="true" />
+      <elem eid="24" shape="line2" nodes="7 8" truss="true" />
+      <elem eid="25" shape="line2" nodes="17 7" truss="true" />
+      <elem eid="26" shape="line2" nodes="18 8" truss="true" />
+      <elem eid="27" shape="line2" nodes="19 9" truss="true" />
+      <elem eid="28" shape="line2" nodes="20 10" truss="true" />
+      <elem eid="29" shape="line2" nodes="12 1" truss="true" />
+      <elem eid="30" shape="line2" nodes="20 11" truss="true" />
+      <elem eid="31" shape="line2" nodes="16 5" truss="true" />
+      <elem eid="32" shape="line2" nodes="16 7" truss="true" />
+      <elem eid="33" shape="line2" nodes="17 18" truss="true" />
+      <elem eid="34" shape="line2" nodes="9 18" truss="true" />
+      <elem eid="35" shape="line2" nodes="8 17" truss="true" />
+      <elem eid="36" shape="line2" nodes="10 9" truss="true" />
+      <elem eid="37" shape="line2" nodes="11 10" truss="true" />
+      <elem eid="38" shape="line2" nodes="1 2" truss="true" />
+      <elem eid="39" shape="line2" nodes="19 10" truss="true" />
+      <elem eid="40" shape="line2" nodes="11 20" truss="true" />
+      <elem eid="41" shape="line2" nodes="6 7" truss="true" />
+      <elem eid="42" shape="line2" nodes="4 5" truss="true" />
+      <elem eid="43" shape="line2" nodes="5 6" truss="true" />
+      <elem eid="44" shape="line2" nodes="11 10" truss="true" />
+      <elem eid="45" shape="line2" nodes="1 12" truss="true" />
+      <elem eid="46" shape="line2" nodes="7 8" truss="true" />
+      <elem eid="47" shape="line2" nodes="13 2" truss="true" />
+      <elem eid="48" shape="line2" nodes="4 15" truss="true" />
+      <elem eid="49" shape="line2" nodes="3 14" truss="true" />
+      <elem eid="50" shape="line2" nodes="14 4" truss="true" />
+      <elem eid="51" shape="line2" nodes="3 2" truss="true" />
+      <elem eid="52" shape="line2" nodes="17 8" truss="true" />
+      <elem eid="53" shape="line2" nodes="8 18" truss="true" />
+      <elem eid="54" shape="line2" nodes="8 9" truss="true" />
+      <elem eid="55" shape="line2" nodes="9 10" truss="true" />
+      <elem eid="56" shape="line2" nodes="15 16" truss="true" />
+      <elem eid="57" shape="line2" nodes="16 17" truss="true" />
+      <elem eid="58" shape="line2" nodes="4 15" truss="true" />
+      <elem eid="59" shape="line2" nodes="14 4" truss="true" />
+      <elem eid="60" shape="line2" nodes="3 4" truss="true" />
+      <elem eid="61" shape="line2" nodes="14 3" truss="true" />
+      <elem eid="62" shape="line2" nodes="21 22" truss="true" />
+      <elem eid="63" shape="line2" nodes="22 23" truss="true" />
+      <elem eid="64" shape="line2" nodes="23 24" truss="true" />
+      <elem eid="65" shape="line2" nodes="24 25" truss="true" />
+      <elem eid="66" shape="line2" nodes="25 26" truss="true" />
+      <elem eid="67" shape="line2" nodes="26 27" truss="true" />
+      <elem eid="68" shape="line2" nodes="27 28" truss="true" />
+      <elem eid="69" shape="line2" nodes="28 29" truss="true" />
+      <elem eid="70" shape="line2" nodes="22 23" truss="true" />
+      <elem eid="71" shape="line2" nodes="30 31" truss="true" />
+      <elem eid="72" shape="line2" nodes="32 33" truss="true" />
+      <elem eid="73" shape="line2" nodes="33 34" truss="true" />
+      <elem eid="74" shape="line2" nodes="34 35" truss="true" />
+      <elem eid="75" shape="line2" nodes="35 36" truss="true" />
+      <elem eid="76" shape="line2" nodes="36 37" truss="true" />
+      <elem eid="77" shape="line2" nodes="37 38" truss="true" />
+      <elem eid="78" shape="line2" nodes="38 39" truss="true" />
+      <elem eid="79" shape="line2" nodes="39 40" truss="true" />
+      <elem eid="80" shape="line2" nodes="32 22" truss="true" />
+      <elem eid="81" shape="line2" nodes="33 23" truss="true" />
+      <elem eid="82" shape="line2" nodes="21 22" truss="true" />
+      <elem eid="83" shape="line2" nodes="35 25" truss="true" />
+      <elem eid="84" shape="line2" nodes="36 26" truss="true" />
+      <elem eid="85" shape="line2" nodes="27 28" truss="true" />
+      <elem eid="86" shape="line2" nodes="37 27" truss="true" />
+      <elem eid="87" shape="line2" nodes="38 28" truss="true" />
+      <elem eid="88" shape="line2" nodes="39 29" truss="true" />
+      <elem eid="89" shape="line2" nodes="40 30" truss="true" />
+      <elem eid="90" shape="line2" nodes="32 21" truss="true" />
+      <elem eid="91" shape="line2" nodes="40 31" truss="true" />
+      <elem eid="92" shape="line2" nodes="36 25" truss="true" />
+      <elem eid="93" shape="line2" nodes="36 27" truss="true" />
+      <elem eid="94" shape="line2" nodes="37 38" truss="true" />
+      <elem eid="95" shape="line2" nodes="29 38" truss="true" />
+      <elem eid="96" shape="line2" nodes="28 37" truss="true" />
+      <elem eid="97" shape="line2" nodes="30 29" truss="true" />
+      <elem eid="98" shape="line2" nodes="31 30" truss="true" />
+      <elem eid="99" shape="line2" nodes="21 22" truss="true" />
+      <elem eid="100" shape="line2" nodes="39 30" truss="true" />
+      <elem eid="101" shape="line2" nodes="31 40" truss="true" />
+      <elem eid="102" shape="line2" nodes="26 27" truss="true" />
+      <elem eid="103" shape="line2" nodes="24 25" truss="true" />
+      <elem eid="104" shape="line2" nodes="25 26" truss="true" />
+      <elem eid="105" shape="line2" nodes="31 30" truss="true" />
+      <elem eid="106" shape="line2" nodes="21 32" truss="true" />
+      <elem eid="107" shape="line2" nodes="27 28" truss="true" />
+      <elem eid="108" shape="line2" nodes="33 22" truss="true" />
+      <elem eid="109" shape="line2" nodes="24 35" truss="true" />
+      <elem eid="110" shape="line2" nodes="23 34" truss="true" />
+      <elem eid="111" shape="line2" nodes="34 24" truss="true" />
+      <elem eid="112" shape="line2" nodes="23 22" truss="true" />
+      <elem eid="113" shape="line2" nodes="37 28" truss="true" />
+      <elem eid="114" shape="line2" nodes="28 38" truss="true" />
+      <elem eid="115" shape="line2" nodes="28 29" truss="true" />
+      <elem eid="116" shape="line2" nodes="29 30" truss="true" />
+      <elem eid="117" shape="line2" nodes="35 36" truss="true" />
+      <elem eid="118" shape="line2" nodes="36 37" truss="true" />
+      <elem eid="119" shape="line2" nodes="24 35" truss="true" />
+      <elem eid="120" shape="line2" nodes="34 24" truss="true" />
+      <elem eid="121" shape="line2" nodes="23 24" truss="true" />
+      <elem eid="122" shape="line2" nodes="34 23" truss="true" />
+      <elem eid="123" shape="line2" nodes="35 15" truss="true" />
+      <elem eid="124" shape="line2" nodes="16 36" truss="true" />
+      <elem eid="125" shape="line2" nodes="37 17" truss="true" />
+      <elem eid="126" shape="line2" nodes="28 8" truss="true" />
+      <elem eid="127" shape="line2" nodes="30 10" truss="true" />
+      <elem eid="128" shape="line2" nodes="9 29" truss="true" />
+      <elem eid="129" shape="line2" nodes="7 27" truss="true" />
+      <elem eid="130" shape="line2" nodes="2 22" truss="true" />
+      <elem eid="131" shape="line2" nodes="23 3" truss="true" />
+      <elem eid="132" shape="line2" nodes="4 24" truss="true" />
+      <elem eid="133" shape="line2" nodes="25 5" truss="true" />
+      <elem eid="134" shape="line2" nodes="6 26" truss="true" />
+    </elset>
+    <displacement selection="Unnamed" axis="1">
+      <value>0</value>
+    </displacement>
+    <displacement selection="Unnamed(2)" axis="2">
+      <value>0</value>
+    </displacement>
+    <displacement selection="Unnamed(3)" axis="3">
+      <value>0</value>
+    </displacement>
+    <displacement selection="Unnamed(4)" axis="1">
+      <value>0</value>
+    </displacement>
+    <displacement selection="Unnamed(5)" axis="2">
+      <value>0</value>
+    </displacement>
+    <displacement selection="Unnamed(6)" axis="3">
+      <value>0</value>
+    </displacement>
+    <force selection="Unnamed(9)">
+      <x>0</x>
+      <y>-10000</y>
+      <z>0</z>
+    </force>
+    <force selection="Unnamed(10)">
+      <x>0</x>
+      <y>-10000</y>
+      <z>0</z>
+    </force>
+    <force selection="Unnamed(11)">
+      <x>0</x>
+      <y>-10000</y>
+      <z>0</z>
+    </force>
+    <mat mid="1" name="Material">
+      <geometric type="RectBar" recta="0.02" rectb="0.003" />
+      <mechanical type="Isotropic" youngsmodulus="3740000000" poissonratio="32380000" />
+    </mat>
+    <nodeselection name="Unnamed">
+      <node nid="1" />
+      <node nid="21" />
+    </nodeselection>
+    <nodeselection name="Unnamed(2)">
+      <node nid="1" />
+      <node nid="21" />
+    </nodeselection>
+    <nodeselection name="Unnamed(3)">
+      <node nid="1" />
+      <node nid="21" />
+    </nodeselection>
+    <nodeselection name="Unnamed(4)">
+      <node nid="11" />
+      <node nid="31" />
+    </nodeselection>
+    <nodeselection name="Unnamed(5)">
+      <node nid="11" />
+      <node nid="31" />
+    </nodeselection>
+    <nodeselection name="Unnamed(6)">
+      <node nid="11" />
+      <node nid="31" />
+    </nodeselection>
+    <nodeselection name="Unnamed(7)">
+      <node nid="6" />
+      <node nid="26" />
+    </nodeselection>
+    <nodeselection name="Unnamed(8)">
+      <node nid="16" />
+      <node nid="36" />
+    </nodeselection>
+    <nodeselection name="Unnamed(9)">
+      <node nid="15" />
+      <node nid="35" />
+    </nodeselection>
+    <nodeselection name="Unnamed(10)">
+      <node nid="16" />
+      <node nid="36" />
+    </nodeselection>
+    <nodeselection name="Unnamed(11)">
+      <node nid="17" />
+      <node nid="37" />
+    </nodeselection>
+    <table />
+    <results>
+      <stats start="2023-05-02T17:53:38.95" end="2023-05-02T17:53:39.27" duration=".33" />
+      <node nid="1" displx="0" disply="0" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2347.07912959456" stressptu="-39117985.4932426" displmag="0" />
+      <node nid="2" displx="-0.0015623488353927" disply="0.000713369336206609" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2436.92937808366" stressptu="-40615489.6347277" displmag="0.00171750682481694" />
+      <node nid="3" displx="-0.000593831927704339" disply="-0.00187833159956197" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1831.70742628008" stressptu="-30528457.104668" displmag="0.001969965978456" />
+      <node nid="4" displx="-0.000107218963002363" disply="-0.00415765356455633" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1044.0585417065" stressptu="-17400975.6951083" displmag="0.00415903583404799" />
+      <node nid="5" displx="0.000237685643329001" disply="-0.00644885820881707" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-430.531543970177" stressptu="-7175525.73283629" displmag="0.00645323691355525" />
+      <node nid="6" displx="0.000293438454804633" disply="-0.00756149527948446" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-106.499488282393" stressptu="-1774991.47137321" displmag="0.00756718686094271" />
+      <node nid="7" displx="0.000351133677882281" disply="-0.00642221140705656" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-376.715100973905" stressptu="-6278585.01623174" displmag="0.00643180334095116" />
+      <node nid="8" displx="0.000775692902101348" disply="-0.00402466315481254" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-964.469389595207" stressptu="-16074489.8265868" displmag="0.00409873309549134" />
+      <node nid="9" displx="0.00172533380690081" disply="-0.00078703470685173" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2300.17089380951" stressptu="-38336181.5634919" displmag="0.00189636504266031" />
+      <node nid="10" displx="0.00206222491030123" disply="0.00134528187268446" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2744.98202027731" stressptu="-45749700.3379552" displmag="0.00246222559844551" />
+      <node nid="11" displx="0" disply="0" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2347.07912959456" stressptu="-39117985.4932426" displmag="0" />
+      <node nid="12" displx="-0.00172068306567656" disply="0.00077804083014829" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-261.886520997191" stressptu="-4364775.34995318" displmag="0.00188841143448242" />
+      <node nid="13" displx="9.25290236419228E-05" disply="-0.00140512615533161" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-857.814047092793" stressptu="-14296900.7848799" displmag="0.00140816942610366" />
+      <node nid="14" displx="0.000873074640146108" disply="-0.003748080317977" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1388.6378071951" stressptu="-23143963.4532517" displmag="0.00384842375489924" />
+      <node nid="15" displx="0.00087462120597391" disply="-0.00588066534554311" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2228.60816737976" stressptu="-37143469.4563293" displmag="0.00594535004522114" />
+      <node nid="16" displx="0.000273004565244064" disply="-0.00757274293021663" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2511.57250730219" stressptu="-41859541.7883698" displmag="0.00757766236908125" />
+      <node nid="17" displx="-0.000328612075485783" disply="-0.0058540185437826" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1955.22223177535" stressptu="-32587037.1962559" displmag="0.00586323451749166" />
+      <node nid="18" displx="0.000160732841647259" disply="-0.00359704965757325" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1328.92370893612" stressptu="-22148728.4822687" displmag="0.00360063901070794" />
+      <node nid="19" displx="0.00149095004547098" disply="-0.000290878150051092" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-938.549027812096" stressptu="-15642483.7968683" displmag="0.00151905962235426" />
+      <node nid="20" displx="0.00286510992779252" disply="0.00140995336662615" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-261.886520997194" stressptu="-4364775.34995323" displmag="0.00319324652890998" />
+      <node nid="21" displx="0" disply="0" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2347.07912959456" stressptu="-39117985.4932427" displmag="0" />
+      <node nid="22" displx="-0.00156234883539271" disply="0.000713369336206617" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2436.92937808367" stressptu="-40615489.6347278" displmag="0.00171750682481696" />
+      <node nid="23" displx="-0.000593831927704343" disply="-0.00187833159956197" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1831.70742628008" stressptu="-30528457.104668" displmag="0.001969965978456" />
+      <node nid="24" displx="-0.000107218963002368" disply="-0.00415765356455633" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1044.0585417065" stressptu="-17400975.6951083" displmag="0.00415903583404799" />
+      <node nid="25" displx="0.000237685643328997" disply="-0.00644885820881708" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-430.531543970177" stressptu="-7175525.73283628" displmag="0.00645323691355526" />
+      <node nid="26" displx="0.00029343845480463" disply="-0.00756149527948448" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-106.49948828239" stressptu="-1774991.47137317" displmag="0.00756718686094272" />
+      <node nid="27" displx="0.000351133677882279" disply="-0.00642221140705657" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-376.715100973901" stressptu="-6278585.01623169" displmag="0.00643180334095118" />
+      <node nid="28" displx="0.000775692902101346" disply="-0.00402466315481255" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-964.469389595206" stressptu="-16074489.8265868" displmag="0.00409873309549135" />
+      <node nid="29" displx="0.00172533380690082" disply="-0.000787034706851731" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2300.17089380951" stressptu="-38336181.5634919" displmag="0.00189636504266031" />
+      <node nid="30" displx="0.00206222491030124" disply="0.00134528187268447" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2744.98202027732" stressptu="-45749700.3379553" displmag="0.00246222559844551" />
+      <node nid="31" displx="0" disply="0" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2347.07912959456" stressptu="-39117985.4932427" displmag="0" />
+      <node nid="32" displx="-0.00172068306567658" disply="0.000778040830148298" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-261.886520997188" stressptu="-4364775.34995313" displmag="0.00188841143448243" />
+      <node nid="33" displx="9.25290236419175E-05" disply="-0.00140512615533161" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-857.814047092792" stressptu="-14296900.7848799" displmag="0.00140816942610366" />
+      <node nid="34" displx="0.000873074640146104" disply="-0.003748080317977" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1388.6378071951" stressptu="-23143963.4532517" displmag="0.00384842375489924" />
+      <node nid="35" displx="0.000874621205973909" disply="-0.00588066534554312" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2228.60816737976" stressptu="-37143469.4563292" displmag="0.00594535004522114" />
+      <node nid="36" displx="0.000273004565244062" disply="-0.00757274293021664" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-2511.57250730219" stressptu="-41859541.7883698" displmag="0.00757766236908126" />
+      <node nid="37" displx="-0.000328612075485786" disply="-0.00585401854378262" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1955.22223177536" stressptu="-32587037.1962559" displmag="0.00586323451749167" />
+      <node nid="38" displx="0.000160732841647255" disply="-0.00359704965757326" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-1328.92370893612" stressptu="-22148728.4822687" displmag="0.00360063901070795" />
+      <node nid="39" displx="0.00149095004547099" disply="-0.000290878150051092" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-938.549027812098" stressptu="-15642483.7968683" displmag="0.00151905962235426" />
+      <node nid="40" displx="0.00286510992779252" disply="0.00140995336662615" displz="0" rotx="0" roty="0" rotz="0" tensileforce="-261.886520997194" stressptu="-4364775.34995323" displmag="0.00319324652890999" />
+      <elem eid="1">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+      </elem>
+      <elem eid="2">
+        <localnode id="1" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+        <localnode id="2" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+      </elem>
+      <elem eid="3">
+        <localnode id="1" tensileforce="-2556.38178649428" stressptu="-42606363.108238" />
+        <localnode id="2" tensileforce="-2556.38178649428" stressptu="-42606363.108238" />
+      </elem>
+      <elem eid="4">
+        <localnode id="1" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+        <localnode id="2" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+      </elem>
+      <elem eid="5">
+        <localnode id="1" tensileforce="-148.922307130615" stressptu="-2482038.45217692" />
+        <localnode id="2" tensileforce="-148.922307130615" stressptu="-2482038.45217692" />
+      </elem>
+      <elem eid="6">
+        <localnode id="1" tensileforce="-148.922307130617" stressptu="-2482038.45217695" />
+        <localnode id="2" tensileforce="-148.922307130617" stressptu="-2482038.45217695" />
+      </elem>
+      <elem eid="7">
+        <localnode id="1" tensileforce="-628.380622964173" stressptu="-10473010.3827362" />
+        <localnode id="2" tensileforce="-628.380622964173" stressptu="-10473010.3827362" />
+      </elem>
+      <elem eid="8">
+        <localnode id="1" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+        <localnode id="2" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+      </elem>
+      <elem eid="9">
+        <localnode id="1" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+        <localnode id="2" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+      </elem>
+      <elem eid="10">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649671" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649671" />
+      </elem>
+      <elem eid="11">
+        <localnode id="1" tensileforce="-562.063704004015" stressptu="-9367728.40006691" />
+        <localnode id="2" tensileforce="-562.063704004015" stressptu="-9367728.40006691" />
+      </elem>
+      <elem eid="12">
+        <localnode id="1" tensileforce="-1993.55079351586" stressptu="-33225846.5585977" />
+        <localnode id="2" tensileforce="-1993.55079351586" stressptu="-33225846.5585977" />
+      </elem>
+      <elem eid="13">
+        <localnode id="1" tensileforce="-4686.78447030144" stressptu="-78113074.505024" />
+        <localnode id="2" tensileforce="-4686.78447030144" stressptu="-78113074.505024" />
+      </elem>
+      <elem eid="14">
+        <localnode id="1" tensileforce="-3552.70458367836" stressptu="-59211743.0613059" />
+        <localnode id="2" tensileforce="-3552.70458367836" stressptu="-59211743.0613059" />
+      </elem>
+      <elem eid="15">
+        <localnode id="1" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+        <localnode id="2" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+      </elem>
+      <elem eid="16">
+        <localnode id="1" tensileforce="-2266.17374184779" stressptu="-37769562.3641298" />
+        <localnode id="2" tensileforce="-2266.17374184779" stressptu="-37769562.3641298" />
+      </elem>
+      <elem eid="17">
+        <localnode id="1" tensileforce="-2168.25836748956" stressptu="-36137639.4581593" />
+        <localnode id="2" tensileforce="-2168.25836748956" stressptu="-36137639.4581593" />
+      </elem>
+      <elem eid="18">
+        <localnode id="1" tensileforce="-562.06370400402" stressptu="-9367728.40006701" />
+        <localnode id="2" tensileforce="-562.06370400402" stressptu="-9367728.40006701" />
+      </elem>
+      <elem eid="19">
+        <localnode id="1" tensileforce="374.413912293944" stressptu="6240231.87156574" />
+        <localnode id="2" tensileforce="374.413912293944" stressptu="6240231.87156574" />
+      </elem>
+      <elem eid="20">
+        <localnode id="1" tensileforce="2166.23018573702" stressptu="36103836.4289504" />
+        <localnode id="2" tensileforce="2166.23018573702" stressptu="36103836.4289504" />
+      </elem>
+      <elem eid="21">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+      </elem>
+      <elem eid="22">
+        <localnode id="1" tensileforce="2088.49268662861" stressptu="34808211.4438102" />
+        <localnode id="2" tensileforce="2088.49268662861" stressptu="34808211.4438102" />
+      </elem>
+      <elem eid="23">
+        <localnode id="1" tensileforce="-43.3077011718914" stressptu="-721795.019531523" />
+        <localnode id="2" tensileforce="-43.3077011718914" stressptu="-721795.019531523" />
+      </elem>
+      <elem eid="24">
+        <localnode id="1" tensileforce="-628.380622964173" stressptu="-10473010.3827362" />
+        <localnode id="2" tensileforce="-628.380622964173" stressptu="-10473010.3827362" />
+      </elem>
+      <elem eid="25">
+        <localnode id="1" tensileforce="2088.49268662859" stressptu="34808211.4438099" />
+        <localnode id="2" tensileforce="2088.49268662859" stressptu="34808211.4438099" />
+      </elem>
+      <elem eid="26">
+        <localnode id="1" tensileforce="1785.90114983243" stressptu="29765019.1638738" />
+        <localnode id="2" tensileforce="1785.90114983243" stressptu="29765019.1638738" />
+      </elem>
+      <elem eid="27">
+        <localnode id="1" tensileforce="2208.63978071937" stressptu="36810663.0119895" />
+        <localnode id="2" tensileforce="2208.63978071937" stressptu="36810663.0119895" />
+      </elem>
+      <elem eid="28">
+        <localnode id="1" tensileforce="374.41391229395" stressptu="6240231.87156584" />
+        <localnode id="2" tensileforce="374.41391229395" stressptu="6240231.87156584" />
+      </elem>
+      <elem eid="29">
+        <localnode id="1" tensileforce="-429.948146139347" stressptu="-7165802.43565578" />
+        <localnode id="2" tensileforce="-429.948146139347" stressptu="-7165802.43565578" />
+      </elem>
+      <elem eid="30">
+        <localnode id="1" tensileforce="-429.948146139352" stressptu="-7165802.43565587" />
+        <localnode id="2" tensileforce="-429.948146139352" stressptu="-7165802.43565587" />
+      </elem>
+      <elem eid="31">
+        <localnode id="1" tensileforce="-2919.2270112661" stressptu="-48653783.5211016" />
+        <localnode id="2" tensileforce="-2919.2270112661" stressptu="-48653783.5211016" />
+      </elem>
+      <elem eid="32">
+        <localnode id="1" tensileforce="-2919.22701126608" stressptu="-48653783.5211013" />
+        <localnode id="2" tensileforce="-2919.22701126608" stressptu="-48653783.5211013" />
+      </elem>
+      <elem eid="33">
+        <localnode id="1" tensileforce="-2266.17374184779" stressptu="-37769562.3641298" />
+        <localnode id="2" tensileforce="-2266.17374184779" stressptu="-37769562.3641298" />
+      </elem>
+      <elem eid="34">
+        <localnode id="1" tensileforce="-4844.73870209644" stressptu="-80745645.0349407" />
+        <localnode id="2" tensileforce="-4844.73870209644" stressptu="-80745645.0349407" />
+      </elem>
+      <elem eid="35">
+        <localnode id="1" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+        <localnode id="2" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+      </elem>
+      <elem eid="36">
+        <localnode id="1" tensileforce="-4113.1284491721" stressptu="-68552140.819535" />
+        <localnode id="2" tensileforce="-4113.1284491721" stressptu="-68552140.819535" />
+      </elem>
+      <elem eid="37">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649671" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649671" />
+      </elem>
+      <elem eid="38">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+      </elem>
+      <elem eid="39">
+        <localnode id="1" tensileforce="-3232.51382047417" stressptu="-53875230.3412362" />
+        <localnode id="2" tensileforce="-3232.51382047417" stressptu="-53875230.3412362" />
+      </elem>
+      <elem eid="40">
+        <localnode id="1" tensileforce="-429.948146139352" stressptu="-7165802.43565587" />
+        <localnode id="2" tensileforce="-429.948146139352" stressptu="-7165802.43565587" />
+      </elem>
+      <elem eid="41">
+        <localnode id="1" tensileforce="-148.922307130617" stressptu="-2482038.45217695" />
+        <localnode id="2" tensileforce="-148.922307130617" stressptu="-2482038.45217695" />
+      </elem>
+      <elem eid="42">
+        <localnode id="1" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+        <localnode id="2" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+      </elem>
+      <elem eid="43">
+        <localnode id="1" tensileforce="-148.922307130615" stressptu="-2482038.45217692" />
+        <localnode id="2" tensileforce="-148.922307130615" stressptu="-2482038.45217692" />
+      </elem>
+      <elem eid="44">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649671" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649671" />
+      </elem>
+      <elem eid="45">
+        <localnode id="1" tensileforce="-429.948146139347" stressptu="-7165802.43565578" />
+        <localnode id="2" tensileforce="-429.948146139347" stressptu="-7165802.43565578" />
+      </elem>
+      <elem eid="46">
+        <localnode id="1" tensileforce="-628.380622964173" stressptu="-10473010.3827362" />
+        <localnode id="2" tensileforce="-628.380622964173" stressptu="-10473010.3827362" />
+      </elem>
+      <elem eid="47">
+        <localnode id="1" tensileforce="-3041.87187658832" stressptu="-50697864.6098054" />
+        <localnode id="2" tensileforce="-3041.87187658832" stressptu="-50697864.6098054" />
+      </elem>
+      <elem eid="48">
+        <localnode id="1" tensileforce="-2948.27811031437" stressptu="-49137968.5052396" />
+        <localnode id="2" tensileforce="-2948.27811031437" stressptu="-49137968.5052396" />
+      </elem>
+      <elem eid="49">
+        <localnode id="1" tensileforce="-2574.71318325233" stressptu="-42911886.3875388" />
+        <localnode id="2" tensileforce="-2574.71318325233" stressptu="-42911886.3875388" />
+      </elem>
+      <elem eid="50">
+        <localnode id="1" tensileforce="1748.96739357568" stressptu="29149456.5595946" />
+        <localnode id="2" tensileforce="1748.96739357568" stressptu="29149456.5595946" />
+      </elem>
+      <elem eid="51">
+        <localnode id="1" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+        <localnode id="2" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+      </elem>
+      <elem eid="52">
+        <localnode id="1" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+        <localnode id="2" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+      </elem>
+      <elem eid="53">
+        <localnode id="1" tensileforce="1785.90114983243" stressptu="29765019.1638738" />
+        <localnode id="2" tensileforce="1785.90114983243" stressptu="29765019.1638738" />
+      </elem>
+      <elem eid="54">
+        <localnode id="1" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+        <localnode id="2" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+      </elem>
+      <elem eid="55">
+        <localnode id="1" tensileforce="-4113.1284491721" stressptu="-68552140.819535" />
+        <localnode id="2" tensileforce="-4113.1284491721" stressptu="-68552140.819535" />
+      </elem>
+      <elem eid="56">
+        <localnode id="1" tensileforce="-3552.70458367836" stressptu="-59211743.0613059" />
+        <localnode id="2" tensileforce="-3552.70458367836" stressptu="-59211743.0613059" />
+      </elem>
+      <elem eid="57">
+        <localnode id="1" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+        <localnode id="2" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+      </elem>
+      <elem eid="58">
+        <localnode id="1" tensileforce="-2948.27811031437" stressptu="-49137968.5052396" />
+        <localnode id="2" tensileforce="-2948.27811031437" stressptu="-49137968.5052396" />
+      </elem>
+      <elem eid="59">
+        <localnode id="1" tensileforce="1748.96739357568" stressptu="29149456.5595946" />
+        <localnode id="2" tensileforce="1748.96739357568" stressptu="29149456.5595946" />
+      </elem>
+      <elem eid="60">
+        <localnode id="1" tensileforce="-2556.38178649428" stressptu="-42606363.108238" />
+        <localnode id="2" tensileforce="-2556.38178649428" stressptu="-42606363.108238" />
+      </elem>
+      <elem eid="61">
+        <localnode id="1" tensileforce="-2574.71318325233" stressptu="-42911886.3875388" />
+        <localnode id="2" tensileforce="-2574.71318325233" stressptu="-42911886.3875388" />
+      </elem>
+      <elem eid="62">
+        <localnode id="1" tensileforce="-3625.16645189804" stressptu="-60419440.8649673" />
+        <localnode id="2" tensileforce="-3625.16645189804" stressptu="-60419440.8649673" />
+      </elem>
+      <elem eid="63">
+        <localnode id="1" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+        <localnode id="2" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+      </elem>
+      <elem eid="64">
+        <localnode id="1" tensileforce="-2556.38178649429" stressptu="-42606363.1082382" />
+        <localnode id="2" tensileforce="-2556.38178649429" stressptu="-42606363.1082382" />
+      </elem>
+      <elem eid="65">
+        <localnode id="1" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+        <localnode id="2" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+      </elem>
+      <elem eid="66">
+        <localnode id="1" tensileforce="-148.922307130614" stressptu="-2482038.4521769" />
+        <localnode id="2" tensileforce="-148.922307130614" stressptu="-2482038.4521769" />
+      </elem>
+      <elem eid="67">
+        <localnode id="1" tensileforce="-148.922307130614" stressptu="-2482038.45217691" />
+        <localnode id="2" tensileforce="-148.922307130614" stressptu="-2482038.45217691" />
+      </elem>
+      <elem eid="68">
+        <localnode id="1" tensileforce="-628.380622964168" stressptu="-10473010.3827361" />
+        <localnode id="2" tensileforce="-628.380622964168" stressptu="-10473010.3827361" />
+      </elem>
+      <elem eid="69">
+        <localnode id="1" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+        <localnode id="2" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+      </elem>
+      <elem eid="70">
+        <localnode id="1" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+        <localnode id="2" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+      </elem>
+      <elem eid="71">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+      </elem>
+      <elem eid="72">
+        <localnode id="1" tensileforce="-562.063704004008" stressptu="-9367728.4000668" />
+        <localnode id="2" tensileforce="-562.063704004008" stressptu="-9367728.4000668" />
+      </elem>
+      <elem eid="73">
+        <localnode id="1" tensileforce="-1993.55079351586" stressptu="-33225846.5585976" />
+        <localnode id="2" tensileforce="-1993.55079351586" stressptu="-33225846.5585976" />
+      </elem>
+      <elem eid="74">
+        <localnode id="1" tensileforce="-4686.78447030144" stressptu="-78113074.5050239" />
+        <localnode id="2" tensileforce="-4686.78447030144" stressptu="-78113074.5050239" />
+      </elem>
+      <elem eid="75">
+        <localnode id="1" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+        <localnode id="2" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+      </elem>
+      <elem eid="76">
+        <localnode id="1" tensileforce="-3552.70458367837" stressptu="-59211743.0613061" />
+        <localnode id="2" tensileforce="-3552.70458367837" stressptu="-59211743.0613061" />
+      </elem>
+      <elem eid="77">
+        <localnode id="1" tensileforce="-2266.1737418478" stressptu="-37769562.3641299" />
+        <localnode id="2" tensileforce="-2266.1737418478" stressptu="-37769562.3641299" />
+      </elem>
+      <elem eid="78">
+        <localnode id="1" tensileforce="-2168.25836748956" stressptu="-36137639.4581594" />
+        <localnode id="2" tensileforce="-2168.25836748956" stressptu="-36137639.4581594" />
+      </elem>
+      <elem eid="79">
+        <localnode id="1" tensileforce="-562.06370400402" stressptu="-9367728.40006701" />
+        <localnode id="2" tensileforce="-562.06370400402" stressptu="-9367728.40006701" />
+      </elem>
+      <elem eid="80">
+        <localnode id="1" tensileforce="374.413912293944" stressptu="6240231.87156572" />
+        <localnode id="2" tensileforce="374.413912293944" stressptu="6240231.87156572" />
+      </elem>
+      <elem eid="81">
+        <localnode id="1" tensileforce="2166.23018573703" stressptu="36103836.4289505" />
+        <localnode id="2" tensileforce="2166.23018573703" stressptu="36103836.4289505" />
+      </elem>
+      <elem eid="82">
+        <localnode id="1" tensileforce="-3625.16645189804" stressptu="-60419440.8649673" />
+        <localnode id="2" tensileforce="-3625.16645189804" stressptu="-60419440.8649673" />
+      </elem>
+      <elem eid="83">
+        <localnode id="1" tensileforce="2088.49268662862" stressptu="34808211.4438104" />
+        <localnode id="2" tensileforce="2088.49268662862" stressptu="34808211.4438104" />
+      </elem>
+      <elem eid="84">
+        <localnode id="1" tensileforce="-43.3077011718847" stressptu="-721795.019531412" />
+        <localnode id="2" tensileforce="-43.3077011718847" stressptu="-721795.019531412" />
+      </elem>
+      <elem eid="85">
+        <localnode id="1" tensileforce="-628.380622964168" stressptu="-10473010.3827361" />
+        <localnode id="2" tensileforce="-628.380622964168" stressptu="-10473010.3827361" />
+      </elem>
+      <elem eid="86">
+        <localnode id="1" tensileforce="2088.4926866286" stressptu="34808211.4438099" />
+        <localnode id="2" tensileforce="2088.4926866286" stressptu="34808211.4438099" />
+      </elem>
+      <elem eid="87">
+        <localnode id="1" tensileforce="1785.90114983243" stressptu="29765019.1638739" />
+        <localnode id="2" tensileforce="1785.90114983243" stressptu="29765019.1638739" />
+      </elem>
+      <elem eid="88">
+        <localnode id="1" tensileforce="2208.63978071937" stressptu="36810663.0119895" />
+        <localnode id="2" tensileforce="2208.63978071937" stressptu="36810663.0119895" />
+      </elem>
+      <elem eid="89">
+        <localnode id="1" tensileforce="374.413912293948" stressptu="6240231.8715658" />
+        <localnode id="2" tensileforce="374.413912293948" stressptu="6240231.8715658" />
+      </elem>
+      <elem eid="90">
+        <localnode id="1" tensileforce="-429.948146139344" stressptu="-7165802.43565573" />
+        <localnode id="2" tensileforce="-429.948146139344" stressptu="-7165802.43565573" />
+      </elem>
+      <elem eid="91">
+        <localnode id="1" tensileforce="-429.948146139351" stressptu="-7165802.43565585" />
+        <localnode id="2" tensileforce="-429.948146139351" stressptu="-7165802.43565585" />
+      </elem>
+      <elem eid="92">
+        <localnode id="1" tensileforce="-2919.2270112661" stressptu="-48653783.5211017" />
+        <localnode id="2" tensileforce="-2919.2270112661" stressptu="-48653783.5211017" />
+      </elem>
+      <elem eid="93">
+        <localnode id="1" tensileforce="-2919.22701126607" stressptu="-48653783.5211012" />
+        <localnode id="2" tensileforce="-2919.22701126607" stressptu="-48653783.5211012" />
+      </elem>
+      <elem eid="94">
+        <localnode id="1" tensileforce="-2266.1737418478" stressptu="-37769562.3641299" />
+        <localnode id="2" tensileforce="-2266.1737418478" stressptu="-37769562.3641299" />
+      </elem>
+      <elem eid="95">
+        <localnode id="1" tensileforce="-4844.73870209646" stressptu="-80745645.034941" />
+        <localnode id="2" tensileforce="-4844.73870209646" stressptu="-80745645.034941" />
+      </elem>
+      <elem eid="96">
+        <localnode id="1" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+        <localnode id="2" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+      </elem>
+      <elem eid="97">
+        <localnode id="1" tensileforce="-4113.1284491721" stressptu="-68552140.8195351" />
+        <localnode id="2" tensileforce="-4113.1284491721" stressptu="-68552140.8195351" />
+      </elem>
+      <elem eid="98">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+      </elem>
+      <elem eid="99">
+        <localnode id="1" tensileforce="-3625.16645189804" stressptu="-60419440.8649673" />
+        <localnode id="2" tensileforce="-3625.16645189804" stressptu="-60419440.8649673" />
+      </elem>
+      <elem eid="100">
+        <localnode id="1" tensileforce="-3232.51382047418" stressptu="-53875230.3412363" />
+        <localnode id="2" tensileforce="-3232.51382047418" stressptu="-53875230.3412363" />
+      </elem>
+      <elem eid="101">
+        <localnode id="1" tensileforce="-429.948146139351" stressptu="-7165802.43565585" />
+        <localnode id="2" tensileforce="-429.948146139351" stressptu="-7165802.43565585" />
+      </elem>
+      <elem eid="102">
+        <localnode id="1" tensileforce="-148.922307130614" stressptu="-2482038.45217691" />
+        <localnode id="2" tensileforce="-148.922307130614" stressptu="-2482038.45217691" />
+      </elem>
+      <elem eid="103">
+        <localnode id="1" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+        <localnode id="2" tensileforce="-942.570934446264" stressptu="-15709515.5741044" />
+      </elem>
+      <elem eid="104">
+        <localnode id="1" tensileforce="-148.922307130614" stressptu="-2482038.4521769" />
+        <localnode id="2" tensileforce="-148.922307130614" stressptu="-2482038.4521769" />
+      </elem>
+      <elem eid="105">
+        <localnode id="1" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+        <localnode id="2" tensileforce="-3625.16645189803" stressptu="-60419440.8649672" />
+      </elem>
+      <elem eid="106">
+        <localnode id="1" tensileforce="-429.948146139344" stressptu="-7165802.43565573" />
+        <localnode id="2" tensileforce="-429.948146139344" stressptu="-7165802.43565573" />
+      </elem>
+      <elem eid="107">
+        <localnode id="1" tensileforce="-628.380622964168" stressptu="-10473010.3827361" />
+        <localnode id="2" tensileforce="-628.380622964168" stressptu="-10473010.3827361" />
+      </elem>
+      <elem eid="108">
+        <localnode id="1" tensileforce="-3041.87187658833" stressptu="-50697864.6098056" />
+        <localnode id="2" tensileforce="-3041.87187658833" stressptu="-50697864.6098056" />
+      </elem>
+      <elem eid="109">
+        <localnode id="1" tensileforce="-2948.27811031438" stressptu="-49137968.5052396" />
+        <localnode id="2" tensileforce="-2948.27811031438" stressptu="-49137968.5052396" />
+      </elem>
+      <elem eid="110">
+        <localnode id="1" tensileforce="-2574.71318325233" stressptu="-42911886.3875389" />
+        <localnode id="2" tensileforce="-2574.71318325233" stressptu="-42911886.3875389" />
+      </elem>
+      <elem eid="111">
+        <localnode id="1" tensileforce="1748.96739357568" stressptu="29149456.5595947" />
+        <localnode id="2" tensileforce="1748.96739357568" stressptu="29149456.5595947" />
+      </elem>
+      <elem eid="112">
+        <localnode id="1" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+        <localnode id="2" tensileforce="-2796.46902758817" stressptu="-46607817.1264694" />
+      </elem>
+      <elem eid="113">
+        <localnode id="1" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+        <localnode id="2" tensileforce="-3046.25694488956" stressptu="-50770949.0814926" />
+      </elem>
+      <elem eid="114">
+        <localnode id="1" tensileforce="1785.90114983243" stressptu="29765019.1638739" />
+        <localnode id="2" tensileforce="1785.90114983243" stressptu="29765019.1638739" />
+      </elem>
+      <elem eid="115">
+        <localnode id="1" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+        <localnode id="2" tensileforce="-2619.42021847265" stressptu="-43657003.6412109" />
+      </elem>
+      <elem eid="116">
+        <localnode id="1" tensileforce="-4113.1284491721" stressptu="-68552140.8195351" />
+        <localnode id="2" tensileforce="-4113.1284491721" stressptu="-68552140.8195351" />
+      </elem>
+      <elem eid="117">
+        <localnode id="1" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+        <localnode id="2" tensileforce="-3552.70458367836" stressptu="-59211743.061306" />
+      </elem>
+      <elem eid="118">
+        <localnode id="1" tensileforce="-3552.70458367837" stressptu="-59211743.0613061" />
+        <localnode id="2" tensileforce="-3552.70458367837" stressptu="-59211743.0613061" />
+      </elem>
+      <elem eid="119">
+        <localnode id="1" tensileforce="-2948.27811031438" stressptu="-49137968.5052396" />
+        <localnode id="2" tensileforce="-2948.27811031438" stressptu="-49137968.5052396" />
+      </elem>
+      <elem eid="120">
+        <localnode id="1" tensileforce="1748.96739357568" stressptu="29149456.5595947" />
+        <localnode id="2" tensileforce="1748.96739357568" stressptu="29149456.5595947" />
+      </elem>
+      <elem eid="121">
+        <localnode id="1" tensileforce="-2556.38178649429" stressptu="-42606363.1082382" />
+        <localnode id="2" tensileforce="-2556.38178649429" stressptu="-42606363.1082382" />
+      </elem>
+      <elem eid="122">
+        <localnode id="1" tensileforce="-2574.71318325233" stressptu="-42911886.3875389" />
+        <localnode id="2" tensileforce="-2574.71318325233" stressptu="-42911886.3875389" />
+      </elem>
+      <elem eid="123">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="124">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="125">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="126">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="127">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="128">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="129">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="130">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="131">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="132">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="133">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <elem eid="134">
+        <localnode id="1" tensileforce="0" stressptu="0" />
+        <localnode id="2" tensileforce="0" stressptu="0" />
+      </elem>
+      <reactions>
+        <forcex nid="1" value="8945.08892125234" />
+        <forcey nid="1" value="7500" />
+        <forcez nid="1" value="0" />
+        <forcex nid="21" value="8945.08892125235" />
+        <forcey nid="21" value="7500.00000000001" />
+        <forcez nid="21" value="0" />
+        <forcex nid="11" value="-8945.08892125233" />
+        <forcey nid="11" value="7500" />
+        <forcez nid="11" value="0" />
+        <forcex nid="31" value="-8945.08892125234" />
+        <forcey nid="31" value="7500.00000000001" />
+        <forcez nid="31" value="0" />
+      </reactions>
+    </results>
+  </solution>
+</liml8>
